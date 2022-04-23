@@ -1,0 +1,2 @@
+# Hand_Tracking_module
+Hand_Tracking_module_using_OpenCV(python)_ and_mediapipe
